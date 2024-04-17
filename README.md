@@ -1,3 +1,16 @@
-# flutter_hw3
+# maincraft
 
-![Снимок экрана 2024-04-17 225909](https://github.com/azinaaitbai/flutter_hw3/assets/144225702/42923e7d-7679-4f0f-8f8e-ae043e9e3271)
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
