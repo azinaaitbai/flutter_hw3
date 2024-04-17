@@ -1,4 +1,4 @@
-# maincraft
+# Skeleton
 
 A new Flutter project.
 
